@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border/50">
       <div className="max-w-6xl mx-auto flex items-center justify-between px-4 py-4">
         <a href="/" className="font-heading text-2xl font-bold text-gradient-gold">
-          Loovable
+          Q Transport
         </a>
         <div className="hidden md:flex items-center gap-8">
           {["services", "booking"].map((s) => (
